@@ -1,0 +1,17 @@
+
+
+.chart{
+  padding: 10px;
+  margin: 20px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0,0,0,0.75); 
+  box-shadow: 0px 0px 15px -10px rgba(0,0,0,0.75);
+  background-color: #283142;
+  border-radius: 15px;
+  
+}
+.chartTitle{
+  margin: 15px;
+  font-family: inherit;
+  font-size: 1.1rem;
+  color: white;
+}

@@ -1,0 +1,56 @@
+
+ .firstPro{
+  background-color: rgb(27, 37, 49);
+  position: absolute;
+  width: 30%;
+  z-index: 999;
+  height: 50vh;
+  border-radius: 15px;
+  margin-top: 13%;
+  margin-left: 10%;
+}
+.firstPro .img{
+  width: 25%;
+  margin: auto;
+  padding: 10px;
+}
+.close{
+  padding: 10px;
+}
+.close button{
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  background-color: #283142;
+  border: none;
+  border-radius: 40%;
+  color: white;
+  box-shadow: 0px 0.1px 2px white;
+}
+.close button:active{
+  background-color: rgb(27, 37, 49);
+}
+.firstImg{
+  height: 20vh;
+  padding: 10px;
+  border: 2px solid #283142;
+  border-radius: 20px;
+}
+.detail{
+  width: 100%;
+  margin-left: 2rem;
+  color: white;
+}
+.detail input{
+  width: 80%;
+  background-color: transparent;
+  border: none;
+  color: white;
+}
+.detail h5{
+  width: 80%;
+  margin-left: 1.5rem;
+  margin-top: 0.1rem;
+  font-weight: 400;
+  color: white;
+}

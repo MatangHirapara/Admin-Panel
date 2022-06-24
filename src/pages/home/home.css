@@ -1,0 +1,10 @@
+
+.home{
+  flex: 4;
+  background-color: rgb(27, 37, 49); 
+}
+.homwwidgets{
+  display: flex;
+  padding-bottom: 1.5rem;
+  
+}
